@@ -7,11 +7,11 @@ The user can specify several NanoParticle (NP) shapes and piling structures.
 
 # Installation
 
-$ git clone
+$ git clone https://github.com/vzeizer/GenMtx.git
 
 # Documentation
 
-The goal of the present .py file is to share a robust, parallelized code to generate matrices (.mtx) to run in the PowerMEIS code (PowerMEIS link)[tars.if.ufrgs.br].
+The goal of the present .py file is to share a robust, parallelized code to generate matrices (.mtx) to run in the PowerMEIS code [PowerMEIS link](tars.if.ufrgs.br).
 
 ## Shapes of the NPs
 
@@ -36,7 +36,7 @@ The code can be run with Python 3.0 or above.
 
 # LICENSE
 
-Stoner3D_FSMA is written and maintained by Vagner Zeizer Carvalho Paes.
+GenMtx is written and maintained by Vagner Zeizer Carvalho Paes.
 
 ## MIT License
 
