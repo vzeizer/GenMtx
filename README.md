@@ -34,6 +34,16 @@ Considering that the NPs are spread over a substrate, the following agglomeratio
 
 The code can be run with Python 3.0 or above.
 
+# What to install?
+
+
+- NumPy
+- joblib
+
+# Content of the files: 
+
+1. thirdparallel_powermeismatrix_general.py: the parallelized python program that generate the matrices
+
 # LICENSE
 
 GenMtx is written and maintained by Vagner Zeizer Carvalho Paes.
